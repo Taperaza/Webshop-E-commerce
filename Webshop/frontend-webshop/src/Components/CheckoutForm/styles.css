@@ -1,0 +1,23 @@
+label{
+    display: inline-block;
+    clear: left;
+    width: 250px;
+    text-align: left;
+    font-size: 18px;
+    height: 20px;
+    font-family: Sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+/* 
+input[type=text] {
+    width: 565px;
+    height: 40px;
+    padding: 10px 2px;
+    margin: 5px 5px;
+    box-sizing: border-box;  
+    background-color: #ffffff;
+    color: rgb(0, 0, 0); 
+    box-shadow: 3px 3px 3px rgba(78, 78, 78, 0.911);
+} */
